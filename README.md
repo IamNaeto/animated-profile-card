@@ -1,7 +1,7 @@
 # Animated Profile Card
 - A web animated profile card that shows the profile details on hover.
 
-    Live Link :: [Go Live]()
+    Live Link :: [Go Live](https://iamnaeto.github.io/animated-profile-card/)
     
 ## Author: Charles Obimnaeto Egesionu ##
 
